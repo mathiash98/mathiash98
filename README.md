@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hallaisiken ke d går i? ✌🏻
 
-<!--
-**mathiash98/mathiash98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Like to find great adventures everywhere, and pretty spontanious
 
-Here are some ideas to get you started:
+🗺️ I have a big interest in Open Data and OpenStreetMap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍻 For some reason I like beer quite a lot
+
+💻 Currently working as a Senior Developer at @ScanReach with life saving technologies for the maritime sector
+
+🌍 connect with me:
+
+| [Personal Blog](https://mathiash98.github.io/) | [LinkedIn](https://www.linkedin.com/in/mathias-haugsbo/) |
+| - | - |
