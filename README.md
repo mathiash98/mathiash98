@@ -1,4 +1,4 @@
-### Hallaisiken ke d går i? ✌🏻
+### Hallaisiken kedegis? ✌🏻
 
 🌍 Like to find great adventures everywhere, and pretty spontanious
 
