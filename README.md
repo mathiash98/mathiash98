@@ -6,7 +6,7 @@
 
 🍻 For some reason I like beer quite a lot
 
-💻 Currently working as a Senior Developer at @ScanReach with life saving technologies for the maritime sector
+💻 Currently working as CTO at @DigiSale with AI automation in property sector
 
 🌍 connect with me:
 
